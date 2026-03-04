@@ -13,7 +13,3 @@ University students who need academic helps and student who wants to become tuto
 The project follows Aglie Scrum methodology. Trello is used for task management and sprint planning.
 Github is used to store project artefacts and track project progress through commits.
 
-
-
-
-Add initial project README and description
