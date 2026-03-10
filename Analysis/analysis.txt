@@ -1,0 +1,16 @@
+System Actors:
+- Student
+- Tutor
+- Admin
+
+Functional Requirements:
+- Students can search tutors
+- Students can book tutoring sessions
+- Tutors can create tutor profiles
+- Tutors can manage availability
+- Admin can manage users
+
+Non-Functional Requirements:
+- Easy to use interface
+- Fast response time
+- Secure login system
