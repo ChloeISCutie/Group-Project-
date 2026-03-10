@@ -1,0 +1,11 @@
+User Stories
+
+1. As a student, I want to search for tutors so that I can find help for my subject.
+
+2. As a student, I want to book a tutoring session so that I can improve my understanding.
+
+3. As a tutor, I want to create a tutor profile so that students can know my expertise.
+
+4. As a tutor, I want to manage my tutoring schedule.
+
+5. As an admin, I want to manage user accounts so the platform remains organized.
