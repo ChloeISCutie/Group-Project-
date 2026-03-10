@@ -1,0 +1,10 @@
+Project: PlanQiz Learning System – Peer Tutoring Platform
+
+Problem:
+Many students struggle to find academic help quickly when they face difficulties in certain subjects.
+
+Solution:
+EduBridge provides a platform where students can search for tutors and book tutoring sessions easily.
+
+Impact:
+This platform improves access to learning support and promotes peer learning, supporting 
