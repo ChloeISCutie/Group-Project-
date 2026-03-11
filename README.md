@@ -1,4 +1,4 @@
-PlanQuiz is a peer-to-peer tutoring platform designed to streamline the process of finding academic support for students. This system allows students to easily search for qualified tutors, book tutoring sessions, and provide valuable feedback through post-session reviews.
+PlanQuiz Learning System is a peer-to-peer tutoring platform designed to streamline the process of finding academic support for students. This system allows students to easily search for qualified tutors, book tutoring sessions, and provide valuable feedback through post-session reviews.
 
 Team
 Vincent: Prototype Developer
@@ -15,3 +15,4 @@ This project adheres to the Agile Scrum methodology.
 Tools
 Trello: Utilized for task management and sprint planning.
 GitHub: Employed for storing project artifacts and tracking project progress via commits.
+
