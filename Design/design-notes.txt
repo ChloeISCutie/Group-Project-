@@ -1,16 +1,12 @@
-System Actors:
-- Student
-- Teacher
-- Parent
+Actors:
+Student
+Teachers
+Parent
 
-Functional Requirements:
-- Students can search for teacher
-- Students can book tutoring sessions
-- Teachers can create tutor profiles
-- Teachers can manage availability
-- Parent can view student info
-
-Non-Functional Requirements:
-- Easy to use interface
-- Fast response time
-- Secure login system
+Main System Functions:
+- Register account
+- Login
+- Search tutor
+- Book tutoring session
+- Manage schedule
+- Leave review
