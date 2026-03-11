@@ -1,9 +1,0 @@
-UML Diagram Link
-
-Use Case Diagram:
-
-
-Class Diagram:
-
-
-These diagrams represent the system structure and interactions for our PlanQuiz Learning System.
