@@ -1,0 +1,12 @@
+Prototype Overview
+
+This prototype demonstrates the user interface of our PlanQuiz Learning System.
+
+Key features shown include:
+- User registration and login
+- Learning materials access
+- Quiz system for knowledge testing
+- Study planning tools
+- Progress tracking
+- Results tracking
+- Check Timetable
