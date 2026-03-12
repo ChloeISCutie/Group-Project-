@@ -1,9 +1,9 @@
 UML Diagram Link
 
 Use Case Diagram:
-
+https://drive.google.com/file/d/1YYtMkmXK8Brin9b61cn6hQTzl_zxVhU8/view?usp=sharing
 
 Class Diagram:
-
+https://drive.google.com/file/d/1m6vnFjL_nm4LRDBHcClutHiFb4sUtE1u/view?usp=sharing
 
 These diagrams represent the system structure and interactions for the EduBridge tutoring platform.
