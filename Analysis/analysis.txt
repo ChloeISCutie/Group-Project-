@@ -4,8 +4,10 @@ System Actors:
 - Parent
 
 Functional Requirements:
-- Students can search for teacher
-- Students can book tutoring sessions
+- Students can view timetable
+- Students can check progress bar
+- Student can view results 
+- Students can attend quiz
 - Teachers can create tutor profiles
 - Teachers can manage availability
 - Parent can view student info
@@ -14,3 +16,4 @@ Non-Functional Requirements:
 - Easy to use interface
 - Fast response time
 - Secure login system
+
