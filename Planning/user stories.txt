@@ -1,11 +1,9 @@
 User Stories
 
-1. As a student, I want to search for teachers so that I can find help for my subject.
+1. As a student, I want to complete my quiz so that I can improve my understanding.
 
-2. As a student, I want to book a tutoring session so that I can improve my understanding.
+2. As a teacher, I want to create a tutor profile so that students can know my expertise.
 
-3. As a teacher, I want to create a tutor profile so that students can know my expertise.
+3. As a teacher, I want to manage my tutoring schedule.
 
-4. As a teacher, I want to manage my tutoring schedule.
-
-5. As a parent, I want to keep track of my students info so that I can make sure he is improving.
+4. As a parent, I want to keep track of my students info so that I can make sure he is improving.
