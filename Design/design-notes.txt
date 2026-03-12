@@ -6,7 +6,7 @@ Parent
 Main System Functions:
 - Register account
 - Login
-- Search tutor
-- Book tutoring session
 - Manage schedule
 - Leave review
+- Submit Quiz 
+- Study planning
