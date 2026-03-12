@@ -4,8 +4,9 @@ Problem:
 Many students struggle to find academic help quickly when they face difficulties in certain subjects.
 
 Solution:
-PlanQuiz Learning System provides a platform where students can search for tutors and book tutoring sessions easily.
+PlanQuiz Learning System provides a platform where students can do online quiz to improve their skills.
 
 Impact:
-This platform improves access to learning support and promotes peer learning, supporting 
+This platform improves access to learning platform so that students can improve their skills better
+
 
